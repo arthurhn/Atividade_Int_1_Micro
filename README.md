@@ -1,2 +1,4 @@
-# Atividade1_Micro_atraso_em_sinal
- 
+# Atividade 1 Microcontroladores
+## Simulador de Atraso em Sinal
+
+
